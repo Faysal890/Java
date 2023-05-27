@@ -36,7 +36,7 @@ public class Encapsulation{
         email = sc.next();
         student1.setName(name);
         student1.setId(id);
-        student1.setId(id);
+        student1.setEmail(email);
         System.out.println("\nStudent Information :");
         System.out.println("Name : "+student1.getName());
         System.out.println("ID : "+student1.getId());
