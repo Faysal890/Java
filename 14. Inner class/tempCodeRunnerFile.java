@@ -1,3 +1,5 @@
+import javax.sound.sampled.SourceDataLine;
+
 class A {
     void print() {
         System.out.println("In class A");
